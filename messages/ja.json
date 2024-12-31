@@ -1,0 +1,166 @@
+{
+  "auth": {
+    "description": "作成者は認証を有効にしています。以下の共有コードを入力してください",
+    "form": {
+      "confirm_button": "確認",
+      "confirm_button_loading": "検証中",
+      "input_code": "共有コードを入力してください",
+      "remember_code": "共有コードを記憶する"
+    },
+    "title": "コードを共有する必要がある"
+  },
+  "global": {
+    "error": {
+      "code_invalid": "共有コードが無効です。詳細は302.AIをご覧ください",
+      "copy_failed": "コピーに失敗しました",
+      "network_error": "ネットワークサービスエラー。ネットワーク状態を確認するか、後ほど再試行してください",
+      "not_found": "ページが存在しません",
+      "tool_deleted": "このツールは削除されました。詳細については、302.AI にアクセスしてください。",
+      "tool_disabled": "このツールは無効になっています。詳細については、302.AI にアクセスしてください。",
+      "unknown_error": "不明なエラーが発生しました。サポートにお問い合わせください",
+      "invalid_input": "無効な入力です。正しい形式で入力してください",
+      "login_required": "ログインが必要です。ログインしてください",
+      "permission_denied": "権限が拒否されました。有効な権限が必要です",
+      "resource_unavailable": "リソースが利用できません。後ほど再試行してください",
+      "timeout": "タイムアウトしました。ネットワーク状態を確認してください"
+    },
+    "footer": {
+      "copyright_content": "<logo></logo>による提供",
+      "copyright_leading": "AI生成のコンテンツであり、参考用です"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "言語を切り替える"
+      },
+      "theme_switcher": {
+        "dark": "ダークモード",
+        "light": "ライトモード",
+        "system": "システムデフォルト",
+        "toggle_theme": "テーマを切り替える"
+      },
+      "tool_info": {
+        "description": "現在のツールに関する情報",
+        "title": "について",
+        "trigger": {
+          "label": "ツール情報ポップアップを開く/閉じる"
+        }
+      }
+    }
+  },
+  "main": {
+    "copy_resume_title": "コピー",
+    "create_dialog_title": "新しい履歴書を作成",
+    "create_resume": "作成",
+    "create_resume_ai": "AIアシスタントで作成",
+    "create_resume_ai_dialog": {
+      "input_address": "住所",
+      "input_birth": "生年月日",
+      "input_email": "メール",
+      "input_gender": "性別",
+      "input_name": "名前",
+      "input_phone": "電話番号",
+      "input_position": "職位",
+      "input_work_time": "職務経験",
+      "next_step": "次のステップ",
+      "previous_step": "前のステップ",
+      "selected_after_template_text": "選択済み",
+      "selected_template_text": "選択",
+      "step_input_data_core": "基本情報の入力",
+      "step_input_data_optimize": "職位に最適化",
+      "step_input_data_optimize_hint_1": "職位情報を入力してください。職位名、職務内容、要件を含みます。",
+      "step_input_data_optimize_hint_2": "AIがあなたの履歴書の内容を調整し、職位により適した履歴書を生成します。",
+      "step_input_data_personal": "個人情報の入力",
+      "step_input_data_personal_hint_1": "個人情報を入力してください。要約、経験、教育、プロジェクト、スキル、言語、賞、資格、興味などを含みます。",
+      "step_input_data_personal_hint_2": "AIがこの断片的な情報を整理します。",
+      "step_input_experience": "経験を入力",
+      "step_select_language": "言語を選択",
+      "step_select_template": "テンプレートを選択",
+      "submit-button": "AIによる作成を開始",
+      "submit-button-success": "作成成功",
+      "success": "作成成功",
+      "templates": {
+        "azurill": "じかんじくこうぞう",
+        "bronzor": "ごく簡略な線",
+        "chikorita": "左右構造",
+        "ditto": "ビジネスファッション",
+        "gengar": "新卒者共通",
+        "glalie": "実習共通",
+        "kakuna": "アートのシンプル化",
+        "leafish": "上下構造",
+        "nosepass": "スタイリッシュで高級",
+        "onyx": "古典的なシンプル化",
+        "pikachu": "アート2段組み",
+        "rhyhorn": "ラインビジネス"
+      },
+      "submit-button-error": "目標言語への翻訳に失敗しました。もう一度お試しください",
+      "submit-button-error-summary-to-json": "JSONデータの要約に失敗しました。もう一度お試しください",
+      "submit-button-loading": "作成中です。ポップアップを閉じないでください",
+      "submit-button-optimization-error": "最適化に失敗しました。もう一度お試しください"
+    },
+    "create_slug": "職業",
+    "create_title": "タイトル",
+    "default_resume_data": {
+      "award": "賞",
+      "certifications": "資格",
+      "education": "教育",
+      "experience": "経験",
+      "interests": "興味",
+      "languages": "言語",
+      "profiles": "プロフィール",
+      "projects": "プロジェクト",
+      "publications": "出版物",
+      "references": "推薦者",
+      "skills": "スキル",
+      "summary": "要約",
+      "volunteer": "ボランティア"
+    },
+    "generate_image_button": "カバーを更新",
+    "generate_image_button_error": "カバー生成に失敗しました。再度試してください",
+    "generate_image_dialog": {
+      "title": "カバーを生成中。。。",
+      "hint": "カバーが生成中です。しばらくしてから再度お試しください"
+    },
+    "gird": "グリッド",
+    "header_title": "AI 履歴書作成",
+    "import_dialog": {
+      "action": "インポート",
+      "action_validate": "検証",
+      "error_empty_file_url": "エラー、取得したファイルアドレスが空です。再度検証してください",
+      "error_hint_loading": "検証中です。ポップアップを閉じないでください",
+      "file_item": "ファイル",
+      "file_item_placeholder": "ファイルを選択",
+      "file_type": "ファイルタイプ",
+      "sub_title": "許可されたソースからファイルをアップロードして解析し、AI履歴書作成ツールに読み込んで編集します。",
+      "title": "既存の履歴書をインポート",
+      "validate_error": "検証に失敗しました",
+      "validate_success": "検証に成功しました",
+      "validate_upload_error": "アップロードに失敗しました"
+    },
+    "item_action": "確認",
+    "item_cancel": "キャンセル",
+    "item_delete": "削除",
+    "item_delete_description": "削除してもよろしいですか？",
+    "item_duplicate": "複製",
+    "item_export": "エクスポート",
+    "item_hint": "ヒント",
+    "item_hint_locked": "履歴書がロックされているため開けません",
+    "item_lock": "ロック",
+    "item_open": "開く",
+    "item_rename": "名前を変更",
+    "item_unlock": "ロック解除",
+    "last_updated": "最終更新",
+    "list": "リスト",
+    "new_resume_create": "新しい履歴書を作成",
+    "new_resume_import": "インポート",
+    "no_data": "データはありません",
+    "item_translate": "翻訳",
+    "translate_dialog": {
+      "description": "言語を選択して、その言語で履歴書のコピーを作成します",
+      "do_not_close_dialog": "履歴書を作成中です。ダイアログを閉じないでください",
+      "error_message_translate": "翻訳に失敗しました。もう一度お試しください",
+      "submit_button": "翻訳して作成",
+      "success_message_translate": "作成成功",
+      "title": "翻訳してコピーを作成"
+    }
+  }
+}

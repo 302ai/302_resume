@@ -1,0 +1,161 @@
+{
+  "auth": {
+    "description": "创建者开启了验证，请在下方填入分享码",
+    "form": {
+      "confirm_button": "确认",
+      "confirm_button_loading": "验证中",
+      "input_code": "请输入分享码",
+      "remember_code": "记住分享码"
+    },
+    "title": "需要分享码"
+  },
+  "global": {
+    "error": {
+      "code_invalid": "分享码错误, 更多请访问 302.AI",
+      "copy_failed": "复制失败",
+      "network_error": "网络服务错误, 请查看网络状态或稍后再试!",
+      "not_found": "页面不存在",
+      "tool_deleted": "该工具已删除, 更多请访问 302.AI",
+      "tool_disabled": "该工具已禁用, 更多请访问 302.AI",
+      "unknown_error": "发生未知错误, 请联系客服"
+    },
+    "footer": {
+      "copyright_content": "本项目由<logo></logo>驱动",
+      "copyright_leading": "内容由AI生成，仅供参考"
+    },
+    "header": {
+      "language_switcher": {
+        "switch_language": "切换语言"
+      },
+      "theme_switcher": {
+        "dark": "暗色模式",
+        "light": "亮色模式",
+        "system": "跟随系统",
+        "toggle_theme": "切换主题"
+      },
+      "tool_info": {
+        "description": "当前工具相关信息",
+        "title": "关于",
+        "trigger": {
+          "label": "打开/关闭工具信息弹窗"
+        }
+      }
+    }
+  },
+  "main": {
+    "copy_resume_title": "副本",
+    "create_dialog_title": "创建新简历",
+    "create_resume": "创建空白简历",
+    "create_resume_ai": "通过AI向导创建",
+    "create_resume_ai_dialog": {
+      "input_address": "位置",
+      "input_birth": "出生年月",
+      "input_email": "电子邮件",
+      "input_gender": "性别",
+      "input_name": "姓名",
+      "input_phone": "联系电话",
+      "input_position": "求职岗位",
+      "input_work_time": "工作年限",
+      "next_step": "下一步",
+      "previous_step": "上一步",
+      "selected_after_template_text": "已选择",
+      "selected_template_text": "选择",
+      "step_input_data_core": "核心信息填写",
+      "step_input_data_optimize": "针对岗位优化",
+      "step_input_data_optimize_hint_1": "填写您的求职岗位信息，包括岗位名称、岗位描述和任职要求。",
+      "step_input_data_optimize_hint_2": "AI将有针对性地调整并优化您的简历内容，生成更符合该求职岗位的简历。",
+      "step_input_data_personal": "个人信息填写",
+      "step_input_data_personal_hint_1": "填写您的个人信息，包括但不限于总结、经验、教育、项目、技能、语言、奖项、证书、兴趣等内容。",
+      "step_input_data_personal_hint_2": "AI将为你整理这些碎片化的信息。",
+      "step_input_experience": "填写经历",
+      "step_select_language": "选择语言",
+      "step_select_template": "选择模版",
+      "submit-button": "开始AI撰写",
+      "submit-button-error": "翻译成目标语言失败，请再次尝试",
+      "submit-button-error-summary-to-json": "汇总数据为JSON时失败，请再次尝试",
+      "submit-button-loading": "正在创建中，请不要关闭弹窗",
+      "submit-button-optimization-error": "优化失败，请再次尝试",
+      "submit-button-success": "创建成功",
+      "success": "创建成功",
+      "templates": {
+        "azurill": "时间轴结构",
+        "bronzor": "极简线条",
+        "chikorita": "左右结构",
+        "ditto": "商务时尚",
+        "gengar": "应届生通用",
+        "glalie": "实习通用",
+        "kakuna": "艺术简约",
+        "leafish": "上下结构",
+        "nosepass": "时尚高级",
+        "onyx": "经典简约",
+        "pikachu": "艺术双栏",
+        "rhyhorn": "线条商务"
+      }
+    },
+    "create_slug": "职业",
+    "create_title": "标题",
+    "default_resume_data": {
+      "award": "奖项",
+      "certifications": "证书",
+      "education": "教育",
+      "experience": "经历",
+      "interests": "兴趣",
+      "languages": "语言",
+      "profiles": "个人资料",
+      "projects": "项目",
+      "publications": "出版物",
+      "references": "推荐人",
+      "skills": "技能",
+      "summary": "总结",
+      "volunteer": "志愿服务"
+    },
+    "generate_image_button": "刷新封面",
+    "generate_image_button_error": "封面生成失败，请再次尝试",
+    "generate_image_dialog": {
+      "title": "正在生成封面。。。",
+      "hint": "请稍等，封面正在生成中"
+    },
+    "gird": "网格",
+    "header_title": "AI 简历制作",
+    "import_dialog": {
+      "action": "导入",
+      "action_validate": "验证",
+      "error_empty_file_url": "出错啦，获取的文件地址为空，请尝试重新验证",
+      "error_hint_loading": "正在验证中，请不要关闭弹窗",
+      "file_item": "文件",
+      "file_item_placeholder": "选择文件",
+      "file_type": "文件类型",
+      "sub_title": "从接受的来源之一上传文件并解析，并将其导入到AI简历制作中以便于编辑。",
+      "title": "导入现有简历",
+      "validate_error": "验证失败",
+      "validate_success": "验证成功",
+      "validate_upload_error": "上传失败"
+    },
+    "item_action": "确定",
+    "item_cancel": "取消",
+    "item_delete": "删除",
+    "item_delete_description": "确认要删除吗？",
+    "item_duplicate": "复制",
+    "item_export": "导出",
+    "item_hint": "提示",
+    "item_hint_locked": "简历锁定状态下无法打开",
+    "item_lock": "锁定",
+    "item_open": "打开",
+    "item_rename": "重命名",
+    "item_translate": "翻译",
+    "item_unlock": "解除锁定",
+    "last_updated": "最新更新",
+    "list": "列表",
+    "new_resume_create": "创建新简历",
+    "new_resume_import": "导入",
+    "no_data": "暂无简历生成",
+    "translate_dialog": {
+      "description": "选择一种语言，可以创建以此语言为副本的简历",
+      "do_not_close_dialog": "创建简历中，请不要关闭弹窗",
+      "error_message_translate": "翻译失败，请再次尝试",
+      "submit_button": "翻译并创建",
+      "success_message_translate": "创建成功",
+      "title": "翻译并创建副本"
+    }
+  }
+}
