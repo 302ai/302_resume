@@ -1,28 +1,30 @@
-# <p align="center">📝🤖 AI履歴書作成 🚀✨</p>
+# <p align="center">📝 AI 履歴書作成 🚀✨</p>
 
-<p align="center">AIを使った高品質履歴書の作成</p>
+<p align="center">AI 履歴書作成は、AI を使ってユーザーが入力した個人情報を磨きます。複数言語の翻訳が可能なだけでなく、求職ポジションの情報に基づいて調整と最適化を行い、高品質の履歴書を生成することができます。</p>
 
-<p align="center"><a href="https://302.ai/tools/resume/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/ja/tools/resume/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![インターフェースプレビュー](docs/302_Resume_Creation_jp.png)
+![](docs/302_Resume_Creation_jp.png)
 
-[302.AI](https://302.ai/ja)の[AI履歴書作成](https://302.ai/ja/tools/resume/)のオープンソースバージョン。
+[302.AI](https://302.ai/ja/)の[AI履歴書作成](https://302.ai/ja/tools/resume/)のオープンソースバージョン。
 302.AIに直接ログインして、コードやコンフィグレーション不要でオンラインバージョンを使用できます。
 または、このプロジェクトを自分のニーズに合わせて変更し、302.AIのAPIキーを使用して独自にデプロイすることができます。
 
 ## インターフェースプレビュー
+AIガイドを使用して履歴書を作成し、基本的な求職情報と個人経歴情報を記入し、テンプレートを選択してから履歴書の作成に直接アクセスすることができ、このページではAIに職場に対して履歴書の内容を最適化するために協力してもらうこともできます。
+![](docs/302_AI_Resume_Creation_jp_screenshot_01.png)     
 
-### <a href="https://github.com/AmruthPillai/Reactive-Resume">Reactive-Resume</a>を基にして、AIを通じてユーザーが入力した個人情報を磨き上げることで、多言語への翻訳だけでなく、求職ポジションの情報に基づいて調整と最適化を行い、高品質の履歴書を生成することができます
+履歴書テンプレートを選択し、関連情報を入力すると、履歴書のプレビュー効果を中央に見て修正し、AIで説明を潤色することができます。
+![](docs/302_AI_Resume_Creation_jp_screenshot_02.png)    
 
-![インターフェースプレビュー](docs/pic-1.png)
-![インターフェースプレビュー](docs/pic-2.png)
-![インターフェースプレビュー](docs/pic-3.png)
+新しいエントリを自由に追加でき、履歴書の内容を常に豊富にすることができます。
+![](docs/302_AI_Resume_Creation_jp_screenshot_03.png)
 
 ## プロジェクトの特徴
 
-### 📝 Reactive-Resumeのコア機能
+### 📝 コア機能
 
 - 履歴書テンプレート：数十種類の専門テンプレートを提供
 - ドラッグ＆ドロップカスタマイズ：履歴書のレイアウトを自由に変更
@@ -53,7 +55,7 @@
 - 日本語インターフェース
 - など多くの国際言語
 
-通过AI个人简历项目，我们能快速创建专业级的简历，AI不仅辅助编辑，还能激发创意，为简历提供新的思路和灵感。🎉💻 让我们一起探索AI驱动的简历新世界吧! 🌟🚀
+AI履歴書プロジェクトを通じて、私たちは迅速に専門級の履歴書を作成することができて、AIは編集を補助するだけでなく、アイデアを引き出して、履歴書に新しい構想とインスピレーションを提供することができます。🎉💻 AIが動かす履歴書の新しい世界を探ってみよう！ 🌟🚀
 
 ## 🚩 今後のアップデート計画
 

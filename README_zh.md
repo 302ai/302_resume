@@ -1,29 +1,30 @@
-# <p align="center">📝🤖 AI个人简历 🚀✨</p>
+# <p align="center">📝 AI 简历制作 🚀✨</p>
 
-<p align="center">使用AI制作高质量简历</p>
+<p align="center">AI 简历制作通过AI润色用户填写的个人信息，不仅可以翻译多语言，还可以根据求职岗位的信息进行调整和优化，生成高质量的简历。</p>
 
-<p align="center"><a href="https://302.ai/tools/resume/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/tools/resume/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![界面预览](docs/302_Resume_Creation_cn.png)
+![](docs/302_Resume_Creation_cn.png)
 
-来自[302.AI](https://302.ai)的[ AI 个人简历 ](https://302.ai/tools/resume/)的开源版本。
+来自[302.AI](https://302.ai)的[AI 简历制作](https://302.ai/tools/resume/)的开源版本。
 你可以直接登录302.AI，零代码零配置使用在线版本。
 或者对本项目根据自己的需求进行修改，传入302.AI的API KEY，自行部署。
 
 ## 界面预览
+可以使用AI引导创建简历，填入基本求职信息和个人经历信息，选择好模板后直接进入简历编写，在此页面还可以选择让AI协助针对岗位来优化简历内容。
+![](docs/302_AI_Resume_Creation_screenshot_01.png)     
 
-### 基于<a href="https://github.com/AmruthPillai/Reactive-Resume">Reactive-Resume</a>为主，通过AI润色用户填写的个人信息，不仅可以翻译多语言，还可以根据求职岗位的信息进行调整和优化，生成高质量的简历
+选择简历模板，输入相关信息，可以在中间看到简历的预览效果并不断修改，并可通过AI润色描述。
+![](docs/302_AI_Resume_Creation_screenshot_02.png)     
 
-![界面预览](docs/pic-1.png)
-![界面预览](docs/pic-2.png)
-![界面预览](docs/pic-3.png)
+可以自由添加新条目，不断丰富简历内容。
+![](docs/302_AI_Resume_Creation_screenshot_03.png)
 
 ## 项目特性
 
-### 📝 Reactive-Resume核心功能
-
+### 📝 核心功能
 - 简历模板：提供数十种专业模板供选择
 - 拖拽定制：支持简历版面的自由拖拽排版
 - 实时编辑：所见即所得的编辑体验
