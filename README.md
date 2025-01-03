@@ -1,28 +1,30 @@
-# <p align="center">📝🤖 AI Resume Creation 🚀✨</p>
+# <p align="center">📝 AI Resume Creation 🚀✨</p>
 
-<p align="center">Using AI to create high-quality resumes</p>
+<p align="center">AI resume creation polishes the personal information filled in by users through AI. It can not only translate into multiple languages, but also adjust and optimize according to the information of the job application position to generate high-quality resumes.</p>
 
-<p align="center"><a href="https://302.ai/tools/resume/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/en/tools/resume/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![Interface Preview](docs/302_Resume_Creation_en.png)
+![](docs/302_Resume_Creation_en.png)
 
-This is the open-source version of [AI Resume Creation](https://302.ai/tools/resume/) from [302.AI](https://302.ai).
+This is the open-source version of [AI Resume Creation](https://302.ai/en/tools/resume/) from [302.AI](https://302.ai).
 You can log in directly to 302.AI to use the online version with zero code and zero configuration.
 Alternatively, you can modify this project according to your needs, input 302.AI's API KEY, and deploy it yourself.
 
 ## Interface Preview
+You can use AI to guide the creation of a resume, fill in basic job information and personal experience information, select a template, and directly enter resume writing. On this page, you can also choose to have AI assist in optimizing resume content for the position.
+![](docs/302_AI_Resume_Creation_en_screenshot_01.png)      
 
-### Based on <a href="https://github.com/AmruthPillai/Reactive-Resume">Reactive-Resume</a>, the AI will polish the user's personal information, and the resume can be translated into multiple languages and optimized according to the job information.
+Select a resume template, enter relevant information, and you can see the preview effect of the resume in the middle and continuously modify it. You can also use AI to polish the description.
+![](docs/302_AI_Resume_Creation_en_screenshot_02.png)        
 
-![Interface Preview](docs/pic-1.png)
-![Interface Preview](docs/pic-2.png)
-![Interface Preview](docs/pic-3.png)
+You can freely add new entries to continuously enrich your resume content.
+![](docs/302_AI_Resume_Creation_en_screenshot_03.png)
 
 ## Project Features
 
-### 📝 Reactive-Resume Core Functions
+### 📝 Core Functions
 
 - Resume Templates: Provides dozens of professional templates for selection
 - Drag and Drop Customization: Supports free drag-and-drop layout for the resume
